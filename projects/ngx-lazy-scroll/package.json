@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "description" : "A simple lazy loading directive for large form elements. This will increase DOM rendering speed.",
   "author": "Anas Bin Nazeer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anasvn/ngx-lazy-scroll.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "scroll",
+    "lazy-scroll",
+    "performance"
+  ],
   "peerDependencies": {
     "@angular/common": "^7.0.0",
     "@angular/core": "^7.0.0"
