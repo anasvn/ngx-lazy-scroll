@@ -1,0 +1,10 @@
+{
+  "name": "ngx-lazy-scroll",
+  "version": "1.0.0",
+  "description" : "A simple lazy loading directive for large form elements. This will increase DOM rendering speed.",
+  "author": "Anas Bin Nazeer",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}
